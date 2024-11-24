@@ -1,0 +1,4 @@
+lazy-lock.json
+test/cxx/build
+test/cxx/compile_commands.json
+test/cxx/.cache
